@@ -1,0 +1,10 @@
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\bin\Debug\Assignment4.2.2Calculator.exe.config
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\bin\Debug\Assignment4.2.2Calculator.exe
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\bin\Debug\Assignment4.2.2Calculator.pdb
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4.2.2Calculator.csproj.AssemblyReference.cache
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4._2._2Calculator.Form1.resources
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4._2._2Calculator.Properties.Resources.resources
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4.2.2Calculator.csproj.GenerateResource.cache
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4.2.2Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4.2.2Calculator.exe
+C:\Users\Owner\source\MSSA\20483\Assignment4.2.2Calculator\obj\Debug\Assignment4.2.2Calculator.pdb
